@@ -1,0 +1,15 @@
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\bin\Debug\Client_Server.exe.config
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\bin\Debug\Client_Server.exe
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\bin\Debug\Client_Server.pdb
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.csproj.AssemblyReference.cache
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.Form1.resources
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.Form2.resources
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.Form3.resources
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.Form4.resources
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.Form5.resources
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.Properties.Resources.resources
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.csproj.GenerateResource.cache
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.exe
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.pdb
+D:\Lap trinh mang\Lab3_LTM\lab3_bai6\lab6_bai\Client_Server\Client_Server\obj\Debug\Client_Server.Form6.resources
